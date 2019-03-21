@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Mar 21 15:19:03 CST 2019
+1.base=/home/gy/android2/src/android_pkg1/android_p1/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=/home/gy/android2/src/android_pkg1/android_p1/build/intermediates/transforms/dexMerger/debug/0
+1.path=lib/armeabi-v7a/libchatter_jni.so
