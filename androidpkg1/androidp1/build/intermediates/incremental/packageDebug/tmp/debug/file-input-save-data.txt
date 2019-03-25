@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 27 18:14:41 CST 2019
+0.baseType=DIRECTORY
+0.base=/home/gy/android1/src/androidpkg1/androidp1/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

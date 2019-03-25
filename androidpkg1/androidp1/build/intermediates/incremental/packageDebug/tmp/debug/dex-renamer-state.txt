@@ -1,0 +1,4 @@
+#Wed Mar 20 17:25:50 CST 2019
+base.0=/home/gy/android1/src/androidpkg1/androidp1/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
