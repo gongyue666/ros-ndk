@@ -705,7 +705,14 @@
   /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/ros/topic.h \
   /home/gy/android2/src/android_pkg1/android_p1/src/main/jni/chatter_jni.h \
   /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/std_msgs/String.h \
-  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/ros/message_operations.h
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/ros/message_operations.h \
+  /home/gy/android2/devel/include/android_pkg1/Marker.h \
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/std_msgs/Header.h \
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/PoseStamped.h \
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Pose.h \
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Point.h \
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Quaternion.h \
+  /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Point32.h
 
 /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/ros/ros.h:
 
@@ -2118,3 +2125,17 @@
 /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/std_msgs/String.h:
 
 /home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/ros/message_operations.h:
+
+/home/gy/android2/devel/include/android_pkg1/Marker.h:
+
+/home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/std_msgs/Header.h:
+
+/home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/PoseStamped.h:
+
+/home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Pose.h:
+
+/home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Point.h:
+
+/home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Quaternion.h:
+
+/home/gy/ros-android-ndk/roscpp_android/output//roscpp_android_ndk/include/geometry_msgs/Point32.h:

@@ -12,8 +12,8 @@ project(android_pkg1)
 find_package(catkin REQUIRED rosjava_build_tools)
 # Set the gradle targets you want catkin's make to run by default
 # e.g. usually catkin_android_setup(assembleRelease uploadArchives)
+ADD_SUBDIRECTORY(android_p1/src/main/jni/nnmk_msgs)
 catkin_android_setup(assembleDebug uploadArchives)
-catkin_package()
 
 
 ##############################################################################

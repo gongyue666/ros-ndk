@@ -5,7 +5,7 @@
 
 #include "std_msgs/String.h"
 #include <sstream>
-
+#include "/home/gy/android2/devel/include/android_pkg1/Marker.h"
 using namespace std;
 
 void log(const char *msg, ...) {
@@ -80,7 +80,7 @@ JNIEXPORT jint JNICALL Java_org_ros_rosjava_1tutorial_1native_1node_ChatterNativ
     delete argv;
 
     ros::NodeHandle n;
-    ros::Publisher chatter_pub = n.advertise<std_msgs::String>("chatter", 1000);
+    ros::Publisher chatter_pub = n.advertise<android_pkg1::Marker>("chatter", 1000);
 
     ros::Rate loop_rate(1);
 
@@ -89,13 +89,13 @@ JNIEXPORT jint JNICALL Java_org_ros_rosjava_1tutorial_1native_1node_ChatterNativ
         /**
          * This is a message object. You stuff it with data, and then publish it.
          */
-        std_msgs::String msg;
+        android_pkg1::Marker msg;
 
-        std::stringstream ss;
-        ss << "hello world " << count;
-        msg.data = ss.str();
+        // std::stringstream ss;
+        // ss << "hello world " << count;
+        // msg.data = ss.str();
 
-        ROS_INFO("%s", msg.data.c_str());
+        // ROS_INFO("%s", msg.data.c_str());
 
         /**
          * The publish() function is how you send messages. The parameter
